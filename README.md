@@ -1,0 +1,1 @@
+# Simple-GOG-Scraper
